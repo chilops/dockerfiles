@@ -1,0 +1,5 @@
+FROM almalinux:8
+LABEL TRAINING="DEVOPS" \
+      TRAINER="Satyachilukuri" \
+      DURATION="120HRS" \
+      org.opencontainers.image.authors="chilukuridevops@gmail.com"
